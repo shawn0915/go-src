@@ -1,0 +1,62 @@
+[submodule "golang.org/x/sys"]
+	path = golang.org/x/sys
+	url = https://github.com/golang/sys
+[submodule "golang.org/x/crypto"]
+	path = golang.org/x/crypto
+	url = https://github.com/golang/crypto
+[submodule "github.com/golang/dep"]
+	path = github.com/golang/dep
+	url = https://github.com/golang/dep
+[submodule "github.com/golang/mock"]
+	path = github.com/golang/mock
+	url = https://github.com/golang/mock
+[submodule "github.com/alecthomas/kingpin"]
+	path = github.com/alecthomas/kingpin
+	url = https://github.com/alecthomas/kingpin
+[submodule "github.com/alecthomas/units"]
+	path = github.com/alecthomas/units
+	url = https://github.com/alecthomas/units
+[submodule "github.com/go-ini/ini"]
+	path = github.com/go-ini/ini
+	url = https://github.com/go-ini/ini
+[submodule "github.com/mattn/go-shellwords"]
+	path = github.com/mattn/go-shellwords
+	url = https://github.com/mattn/go-shellwords
+[submodule "github.com/percona/go-mysql"]
+	path = github.com/percona/go-mysql
+	url = https://github.com/percona/go-mysql
+[submodule "github.com/pkg/errors"]
+	path = github.com/pkg/errors
+	url = https://github.com/pkg/errors
+[submodule "github.com/sirupsen/logrus"]
+	path = github.com/sirupsen/logrus
+	url = https://github.com/sirupsen/logrus
+[submodule "github.com/bradfitz/slice"]
+	path = github.com/bradfitz/slice
+	url = https://github.com/bradfitz/slice
+[submodule "github.com/hashicorp/go-version"]
+	path = github.com/hashicorp/go-version
+	url = https://github.com/hashicorp/go-version
+[submodule "github.com/howeyc/gopass"]
+	path = github.com/howeyc/gopass
+	url = https://github.com/howeyc/gopass
+[submodule "github.com/pborman/getopt"]
+	path = github.com/pborman/getopt
+	url = https://github.com/pborman/getopt
+[submodule "github.com/percona/pmgo"]
+	path = github.com/percona/pmgo
+	url = https://github.com/percona/pmgo
+[submodule "github.com/shirou/gopsutil"]
+	path = github.com/shirou/gopsutil
+	url = https://github.com/shirou/gopsutil
+[submodule "gopkg.in/mgo.v2"]
+	path = gopkg.in/mgo.v2
+	url = https://github.com/go-mgo/mgo
+	branch = v2
+[submodule "gopkg.in/tomb.v2"]
+	path = gopkg.in/tomb.v2
+	url = https://github.com/go-tomb/tomb
+	branch = v2
+[submodule "github.com/montanaflynn/stats"]
+	path = github.com/montanaflynn/stats
+	url = https://github.com/montanaflynn/stats
