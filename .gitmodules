@@ -63,3 +63,6 @@
 [submodule "github.com/alecthomas/template"]
 	path = github.com/alecthomas/template
 	url = https://github.com/alecthomas/template
+[submodule "github.com/satori/go.uuid"]
+	path = github.com/satori/go.uuid
+	url = https://github.com/satori/go.uuid
