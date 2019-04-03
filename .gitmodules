@@ -75,3 +75,21 @@
 [submodule "github.com/kr/text"]
 	path = github.com/kr/text
 	url = https://github.com/kr/text
+[submodule "gopkg.in/ini.v1"]
+	path = gopkg.in/ini.v1
+	url = https://github.com/go-ini/ini
+[submodule "github.com/stretchr/testify"]
+	path = github.com/stretchr/testify
+	url = https://github.com/stretchr/testify
+[submodule "github.com/smartystreets/goconvey"]
+	path = github.com/smartystreets/goconvey
+	url = https://github.com/smartystreets/goconvey/
+[submodule "github.com/smartystreets/assertions"]
+	path = github.com/smartystreets/assertions
+	url = https://github.com/smartystreets/assertions/
+[submodule "github.com/jtolds/gls"]
+	path = github.com/jtolds/gls
+	url = https://github.com/jtolds/gls
+[submodule "gopkg.in/yaml.v2"]
+	path = gopkg.in/yaml.v2
+	url = https://github.com/go-yaml/yaml
