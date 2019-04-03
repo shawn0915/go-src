@@ -60,3 +60,6 @@
 [submodule "github.com/montanaflynn/stats"]
 	path = github.com/montanaflynn/stats
 	url = https://github.com/montanaflynn/stats
+[submodule "github.com/alecthomas/template"]
+	path = github.com/alecthomas/template
+	url = https://github.com/alecthomas/template
