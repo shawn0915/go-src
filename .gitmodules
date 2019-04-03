@@ -93,3 +93,6 @@
 [submodule "gopkg.in/yaml.v2"]
 	path = gopkg.in/yaml.v2
 	url = https://github.com/go-yaml/yaml
+[submodule "golang.org/x/tools"]
+	path = golang.org/x/tools
+	url = https://github.com/golang/tools
