@@ -66,6 +66,7 @@
 [submodule "github.com/satori/go.uuid"]
 	path = github.com/satori/go.uuid
 	url = https://github.com/satori/go.uuid
+	branch = origin/v1.2.0
 [submodule "gopkg.in/check.v1"]
 	path = gopkg.in/check.v1
 	url = https://github.com/go-check/check
@@ -96,3 +97,6 @@
 [submodule "golang.org/x/tools"]
 	path = golang.org/x/tools
 	url = https://github.com/golang/tools
+[submodule "github.com/Masterminds/semver"]
+	path = github.com/Masterminds/semver
+	url = https://github.com/Masterminds/semver
