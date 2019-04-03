@@ -66,3 +66,9 @@
 [submodule "github.com/satori/go.uuid"]
 	path = github.com/satori/go.uuid
 	url = https://github.com/satori/go.uuid
+[submodule "gopkg.in/check.v1"]
+	path = gopkg.in/check.v1
+	url = https://github.com/go-check/check
+[submodule "github.com/kr/pretty"]
+	path = github.com/kr/pretty
+	url = https://github.com/kr/pretty
